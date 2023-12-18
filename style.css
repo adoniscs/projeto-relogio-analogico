@@ -58,28 +58,28 @@ h1 {
 .p {
     transform-origin: left;
     transform: rotate(0deg);
-    border-radius: 50%;
+    border-radius: 20%;
     position: absolute;
 }
 
 .p_s {
     width: 100px;
-    height: 3px;
+    height: 5px;
     background-color: #F00;
 }
 .p_m {
     width: 120px;
-    height: 7px;
+    height: 5px;
     background-color: #FFF;
 }
 .p_h {
     width: 70px;
-    height: 10px;
+    height: 5px;
     background-color: #FFF;
 }
 .encaixe {
-    width: 20px;
-    height: 20px;
+    width: 15px;
+    height: 15px;
     background-color: #FFF;
     border-radius: 50%;
     position: absolute;
